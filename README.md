@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex Sandro</h1>
 <h3 align="center">Programmer</h3>
 
-<p align="left"> <a href="https://twitter.com/@alexdrums5" target="blank"><img src="https://img.shields.io/twitter/follow/@alexdrums5?logo=twitter&style=for-the-badge" alt="@alexdrums5" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
