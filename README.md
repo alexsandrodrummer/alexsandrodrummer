@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </p>
 
----
+
 
 ## 🧩 About Me  
 
@@ -19,7 +19,7 @@ I'm a **Backend Developer** with a degree in **Systems Analysis and Development*
 I have hands-on experience with **Python** and frameworks such as **Django**, **Flask**, and **FastAPI**.  
 My main interests are **API design**, **scalable systems**, and **cloud-based architectures** using **AWS**, **Docker**, and **PostgreSQL**.  
 
----
+
 
 ## ⚙️ Technologies & Tools  
 
@@ -32,7 +32,7 @@ Docker · AWS · Linux · Git · CI/CD
 **Databases**  
 PostgreSQL · SQLite  
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -40,6 +40,6 @@ PostgreSQL · SQLite
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrodrummer&layout=compact&theme=default&hide_border=true)
 
----
+
 
 _“Always learning, constantly evolving.”_
