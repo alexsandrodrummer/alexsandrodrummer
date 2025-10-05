@@ -1,8 +1,45 @@
-<h1 align="center">Hi 👋, I'm Alex Sandro</h1>
-<h3 align="center">Backend Developer</h3>
+# 👋 Hi, I'm Alex Sandro
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🧩 About Me  
 
+I'm a **Backend Developer** with a degree in **Systems Analysis and Development**.  
+I have hands-on experience with **Python** and frameworks such as **Django**, **Flask**, and **FastAPI**.  
+My main interests are **API design**, **scalable systems**, and **cloud-based architectures** using **AWS**, **Docker**, and **PostgreSQL**.  
+
+---
+
+## ⚙️ Technologies & Tools  
+
+**Languages & Frameworks**  
+Python · Django · Django REST Framework · Flask · FastAPI  
+
+**Infrastructure & DevOps**  
+Docker · AWS · Linux · Git · CI/CD  
+
+**Databases**  
+PostgreSQL · SQLite  
+
+---
+
+## 📊 GitHub Stats  
+
+![Alex Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandrodrummer&show_icons=true&theme=default&hide_title=true&hide_border=true&count_private=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrodrummer&layout=compact&theme=default&hide_border=true)
+
+---
+
+_“Always learning, constantly evolving.”_
