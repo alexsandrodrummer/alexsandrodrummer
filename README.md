@@ -27,7 +27,7 @@ My main interests are **API design**, **scalable systems**, and **cloud-based ar
 Python · Django · Django REST Framework · Flask · FastAPI  
 
 **Infrastructure & DevOps**  
-Docker · AWS · Linux · Git · CI/CD  
+Docker · AWS · Linux · Git  
 
 **Databases**  
 PostgreSQL · SQLite  
