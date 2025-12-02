@@ -34,11 +34,6 @@ PostgreSQL · SQLite
 
 
 
-## 📊 GitHub Stats  
-
-![Alex Sandro GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandrodrummer&show_icons=true&theme=default&hide_title=true&hide_border=true&count_private=true&hide_rank=true&hide=prs,issues,contribs)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandrodrummer&layout=compact&theme=default&hide_border=true)
 
 
 
